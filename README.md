@@ -1,2 +1,2 @@
-# 008amist-learning-mlops
-to hold source code
+# 0800amist-learning-mlops
+This repo to hold both source code and documentation for learning MLOPS
