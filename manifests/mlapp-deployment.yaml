@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: mlapp-container
-        image: ssadcloud/mlapp:latest
+        image: bslcnr/mlapp:latest
         ports:
         - containerPort: 5000
