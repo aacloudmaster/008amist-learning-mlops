@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/923788704313154080/19daff96abd448f2a78a5efb94e7df1b/artifacts
+end_time: 1733718190469
+entry_point_name: ''
+experiment_id: '923788704313154080'
+lifecycle_stage: active
+run_id: 19daff96abd448f2a78a5efb94e7df1b
+run_name: powerful-grub-679
+run_uuid: 19daff96abd448f2a78a5efb94e7df1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733718181330
+status: 3
+tags: []
+user_id: Lenovo

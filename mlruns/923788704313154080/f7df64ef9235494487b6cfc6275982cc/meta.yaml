@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/923788704313154080/f7df64ef9235494487b6cfc6275982cc/artifacts
+end_time: 1733719756634
+entry_point_name: ''
+experiment_id: '923788704313154080'
+lifecycle_stage: active
+run_id: f7df64ef9235494487b6cfc6275982cc
+run_name: amazing-fowl-334
+run_uuid: f7df64ef9235494487b6cfc6275982cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733719750875
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/976319264970801313
+creation_time: 1733796881518
+experiment_id: '976319264970801313'
+last_update_time: 1733796881518
+lifecycle_stage: active
+name: rental-prediction-experiment
